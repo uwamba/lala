@@ -173,7 +173,7 @@ SOCIALACCOUNT_PROVIDERS = {
         'SCOPE': ['email', 'profile'],
         'AUTH_PARAMS': {'access_type': 'online'},
         'OAUTH_PKCE_ENABLED': True,  # Optional, but adds additional security
-        'CLIENT_ID': '856025946443-ptk31n3kan2jmt8hvltsqo27j8n23k8c.apps.googleusercontent.com',
+        'CLIENT_ID': 'client_id',
         'SECRET_KEY': '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',
     }
 }
