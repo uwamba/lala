@@ -174,6 +174,6 @@ SOCIALACCOUNT_PROVIDERS = {
         'AUTH_PARAMS': {'access_type': 'online'},
         'OAUTH_PKCE_ENABLED': True,  # Optional, but adds additional security
         'CLIENT_ID': 'client_id',
-        'SECRET_KEY': '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',
+        'SECRET_KEY': 'key',
     }
 }

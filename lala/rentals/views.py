@@ -210,7 +210,7 @@ def verify_token(request):
 
 
 
-GOOGLE_CLIENT_ID = "856025946443-ptk31n3kan2jmt8hvltsqo27j8n23k8c.apps.googleusercontent.com"
+GOOGLE_CLIENT_ID = setting.client
 
 
 
