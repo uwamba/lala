@@ -1,0 +1,7 @@
+{
+    "serverUrl": "http://127.0.0.1:3000",
+    "apiServerUrl": "http://127.0.0.1:8000",
+    "CLIENT_ID" :"856025946443-ptk31n3kan2jmt8hvltsqo27j8n23k8c.apps.googleusercontent.com",
+    "REDIRECT_URI": "http://localhost:3000/login/login-redirect"
+}
+  
